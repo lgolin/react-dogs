@@ -5,6 +5,7 @@
 body {
   margin: 0;
   color: #333;
+  padding-top: 4rem;
 
   --type-first: Helvetic, Arial, sans-serif;
   --type-second: 'Spectral', Georgia;
@@ -25,6 +26,10 @@ li {
   list-style: none;
   padding: 0px;
   margin: 0px;
+}
+
+a {
+  text-decoration: none;
 }
 
 img {
